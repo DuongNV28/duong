@@ -2,4 +2,5 @@ duongneo
 dung manh
 function new(){
 	echo "huhu";
+	echo "hahaha";
 }
