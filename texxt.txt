@@ -1,2 +1,5 @@
 duongneo
 dung manh
+function new(){
+echo "hihi";
+}
